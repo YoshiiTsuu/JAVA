@@ -18,8 +18,8 @@ public class Animal {
 		return nome;
 	}
 
-	public void setNome(String nome) {
-		this.nome = nome;
+	public void setNome(String nome1) {
+		nome = nome1;
 	}
 
 	public int getIdade() {

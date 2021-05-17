@@ -6,6 +6,7 @@ public class Exemplo1 {
 	private int idade;
 	private String endereço;
 
+	
 	public String getNome() {
 		return nome;
 	}
